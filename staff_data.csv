@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Tiffany Sanderson,https://www.lakeareatech.edu/wp-content/uploads/2023/01/Tiffany-Sanderson-w.jpg,,https://www.lakeareatech.edu/academics/faculty-and-staff-information/tiffany-sanderson/,staff,"tag1, tag2",FALSE,President,1,,
+Tiffany Sanderson,https://www.lakeareatech.edu/wp-content/uploads/2023/01/Tiffany-Sanderson-w.jpg,,https://www.lakeareatech.edu/academics/faculty-and-staff-information/tiffany-sanderson/,staff,"tag1, tag2",FALSE,President,1,0,
 Shane Swenson,https://www.lakeareatech.edu/wp-content/uploads/2016/07/shane.s-web.jpg,,https://www.lakeareatech.edu/academics/faculty-and-staff-information/shane-ortmeier/,staff,"tag1, tag2",FALSE,Interim Vice President,2,1,
 Christi Chaney,https://www.lakeareatech.edu/wp-content/uploads/2016/04/christi_chaney.jpg,,https://www.lakeareatech.edu/academics/faculty-and-staff-information/christi-chaney/,staff,"tag1, tag2",FALSE,Information Technology Director,3,2,
 LuAnn Strait,https://www.lakeareatech.edu/wp-content/uploads/2016/04/LuAnn-Website-2.jpg,,https://www.lakeareatech.edu/academics/faculty-and-staff-information/luann-strait/,staff,"tag1, tag2",FALSE,Director of Student Services,4,1,
